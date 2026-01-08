@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { StatusBar,StyleSheet, useColorScheme,View , Image,useWindowDimensions} from "react-native";
 import { Button, Icon, TextInput, Text,Card, Cover,Avatar } from "react-native-paper";
 
-
 const SignupPage = () => {
     const { width, height } = useWindowDimensions();
    
